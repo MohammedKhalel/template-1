@@ -119,18 +119,18 @@ border-radius: 8px;
 margin-left: 70px;
 }
 .div5:hover{
-    background-image: url(../images2/modes-\(S\).jpg);
+    background-image: url(../Images/modes-\(S\).jpg);
 }
 .div6:hover{
-    background-image: url(../images2/Tesla-Model-X-000-v-low-res-1500x850.jpg);
+    background-image: url(../Images/Tesla-Model-X-000-v-low-res-1500x850.jpg);
     background-size: cover;
 }
 .div7:hover{
-    background:  url(../images2/Tesla_Model_Y_Preis_Deutschland_Elon_Musk.jpg)  ;
+    background:  url(../Images/Tesla_Model_Y_Preis_Deutschland_Elon_Musk.jpg)  ;
     background-size: cover;
 }
 .div8:hover{
-    background:  url(../images2/2022-tesla-model-3-mmp-1-1640025520.jpg)  ;
+    background:  url(../Images/2022-tesla-model-3-mmp-1-1640025520.jpg)  ;
     background-size: cover;
 }
 .pp , .link{
