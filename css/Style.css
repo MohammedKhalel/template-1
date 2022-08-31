@@ -526,7 +526,7 @@ opacity: 0;
 .container7{
     width: 100vw;
     height: 400px;
-background:url(../images/zzz.png)  no-repeat fixed ;
+background:url(../Images/zzz.png)  no-repeat fixed ;
 background-size: cover;
 position: relative;
 }
